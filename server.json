@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Tênis de Caminhada Leve Confortável",
+      "price": 179.9,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRKh1OK83RDudRlrPrB8sws9JVxgbuuijYPIXGcvqhFLjZ5HE5GdhfKCtSqM1xkkBkZHJIo3dZAqoAqiRAvoSu8oFBh4fityKqT9Q4ra6sOmzfcKGyHMNKr&usqp=CAE"
+    },
+    {
+      "id": 2,
+      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+      "price": 139.9,
+      "image": "https://static.zattini.com.br/produtos/tenis-adidas-sensebounce-masculino/26/COL-6966-226/COL-6966-226_zoom1.jpg?ts=1570098036"
+    },
+    {
+      "id": 3,
+      "title": "Tênis Coca-Cola Sense Mescla Feminino - Grafite",
+      "price": 219.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-coca-cola-sense-mescla-feminino/66/598-9477-266/598-9477-266_zoom1.jpg?ts=1584640996&ims=544x"
+    },
+    {
+      "id": 5,
+      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+      "price": 139.9,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS4pPpiolY60rL3XdzimBHlt1aMP7z8gDOzzjDD9dWjL07xIY65Qe7h8F3mX0YZT_KOCE0e7yo4cS0TjtXv1HiFvp_9U7QA9BHbPMqG7ua0iOaUTaNxxyXH&usqp=CAE"
+    },
+    {
+      "id": 6,
+      "title": "Tênis Adidas Duramo Lite 2.0",
+      "price": 219.9,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRPonxCt4BDSexKv8ly76vkV8rNf0WTTXSZkEmouabM8nGozRwUyWMpxsAC9ANnN_8MlzUH2ekxgBf4wC3LBPd-7yCJ_iH44XGREH6WDo0ue_2lxdS_StRl&usqp=CAE"
+    },
+    {
+      "id": 4,
+      "title": "Tênis de Caminhada Leve Confortável",
+      "price": 179.9,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQJPZILyfUNF3V8gYl7p6Ks5iv2H9NTf6ppkx-vzQOrGHC36E4AoVK01ZPeeiiYfsa7N-S6pQ-RR4wdKukO6jLBewKfJRbcRgXQuhKq3Q4mJ7hxdGap83o-&usqp=CAE"
+    }
+  ]
+}
